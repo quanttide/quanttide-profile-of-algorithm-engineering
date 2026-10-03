@@ -4,4 +4,4 @@
 
 ## 文档
 
-- `quanttide-asset/asset-classifier/AGENTS.md` — 资产分类器：资产位置的判断逻辑
+- `quanttide-asset/asset-classifier/` — 资产分类器：需求、规格与实现
