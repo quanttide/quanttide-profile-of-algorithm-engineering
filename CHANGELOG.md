@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### 新增
+
+- `quanttide-asset/asset-classifier/` 增 `evaluation.md`（效果是否符合业务）与 `feedback.md`（使用者反馈，暂为空）
+
 ### 变更
 
 - `quanttide-asset/asset-classifier/` 拆为四份：`index.md` 只做入口，细节分解到 `requirement.md`（需求）、`specification.md`（规格：性质 × 确定度两个维度）、`implementation.md`（规则版与算法版）

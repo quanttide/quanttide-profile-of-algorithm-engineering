@@ -9,3 +9,5 @@
 - `requirement.md` — 要解决什么问题、要满足什么
 - `specification.md` — 判断逻辑：两个维度、位置映射、仓库对应
 - `implementation.md` — 规则版怎么用、判不准的部分交给算法
+- `evaluation.md` — 效果是否符合业务
+- `feedback.md` — 使用者反馈
